@@ -9,3 +9,11 @@ button {
 li {
     color:rgb(221, 152, 96)
 }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(221, 152, 96);
+    background-color: rgb(71, 124, 71);
+}
