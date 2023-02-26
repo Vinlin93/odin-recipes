@@ -2,23 +2,27 @@
     background-color: rgb(253, 215, 184);
 }
 
-button {
+button,
+h1,
+h2 {
     font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
-    color: rgb(221, 152, 96);
-    background-color: rgb(71, 124, 71);
-    font-weight: bold;
 }
 
+button,
+h1,
 li {
-    color:rgb(221, 152, 96)
+    color: rgb(221, 152, 96);
+}
+
+button {
+    font-size: 20px;
+    background-color: rgb(71, 124, 71);
+    font-weight: bold;
 }
 
 h1 {
     font-size: 60px;
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    color: rgb(221, 152, 96);
     background-color: rgb(71, 124, 71);
 }
 
@@ -28,7 +32,6 @@ img {
 }
 
 h2 {
-    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 30px;
     color:rgb(71, 124, 71);
