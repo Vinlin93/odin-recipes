@@ -5,3 +5,8 @@ h1 {
     color: rgb(221, 152, 96);
     background-color: rgb(71, 124, 71);
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
